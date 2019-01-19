@@ -1,0 +1,6 @@
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\bin\Debug\Week2Assignment.shared.dll
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\bin\Debug\Week2Assignment.shared.pdb
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\obj\Debug\Week2Assignment.shared.csprojAssemblyReference.cache
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\obj\Debug\Week2Assignment.shared.csproj.CoreCompileInputs.cache
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\obj\Debug\Week2Assignment.shared.dll
+C:\Users\longj\source\repos\Week2Assignment\Week2Assignment.shared\obj\Debug\Week2Assignment.shared.pdb
